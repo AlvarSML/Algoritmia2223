@@ -1,3 +1,6 @@
-*.identifier
+*.Identifier
 *.zip
-
+*checkpoint*
+*.pdf
+*.dat
+*test-py*
